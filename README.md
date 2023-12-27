@@ -21,8 +21,8 @@
 **Mods:**
 - Rainbow BARF Logo LED for StealthBurner
 - Umbilical PG7
-- SB2209 RP2040
-- Knomi V2
+- BTT SB2209 RP2040
+- BTT Knomi V2
 
 **Reference URLS:**
 
