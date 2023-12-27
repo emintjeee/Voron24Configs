@@ -2,6 +2,12 @@
 
 **OS:** Debian GNU/Linux 12 (bookworm)
 
+**Hardware**
+- Fysetc Spider V1.1
+- Fysetc Canbus Expander
+- Raspberry 4
+- KNOMI V2
+
 **Slicer**: OrcaSlicer
 
 **Plugins:**
