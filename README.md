@@ -33,8 +33,7 @@ Thanks to all this stuff:
 - https://github.com/Esoterical/voron_canbus
 - https://github.com/Esoterical/voron_canbus/tree/main/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20(RP2040)
 - https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
-
-**Umbilical mod**:
+- https://github.com/bigtreetech/KNOMI/tree/master/KNOMI2
 - https://www.printables.com/model/662739-voron-mgn9-endstop-carriage-cw2
 - https://www.printables.com/model/541874-umbilical-pg7-anchor-mod-large-gear-clockwork-2
 - https://www.printables.com/model/363657-voron-v24-rear-umbilical
