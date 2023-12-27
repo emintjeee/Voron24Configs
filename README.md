@@ -1,11 +1,8 @@
-**Printer**
+**Printer:** Voron 2.4 300x300mm RC1 (Modded partly to RC2)
 
-Voron 2.4 300x300mm RC1 (Modded partly to RC2)
+**OS:** Debian GNU/Linux 12 (bookworm)
 
-**OS:**
-Debian GNU/Linux 12 (bookworm)
-
-**PLUGINS:**
+**Plugins:**
 - Crowsnest (Installed by Kiauh)
 - Klippain-ShakeTune (https://github.com/Frix-x/klippain-shaketune)
 - Klipper (Installed by Kiauh)
