@@ -23,6 +23,7 @@ Thanks to all this stuff:
 - https://github.com/Esoterical/voron_canbus/tree/main/mainboard_flashing
 - https://github.com/Esoterical/voron_canbus
 - https://github.com/Esoterical/voron_canbus/tree/main/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20(RP2040)
+- https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
 
 **Umbilical mod**:
 - https://www.printables.com/model/662739-voron-mgn9-endstop-carriage-cw2
