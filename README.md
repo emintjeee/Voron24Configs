@@ -17,12 +17,14 @@
 - Led_effect (https://github.com/julianschill/klipper-led_effect/tree/master)
 - Mainsail (Installed by Kiauh)
 - Moonraker (Installed by Kiauh)
+- Happy Hare (https://github.com/moggieuk/Happy-Hare/)
 
 **Mods:**
 - Rainbow BARF Logo LED for StealthBurner
 - Umbilical PG7
 - BTT SB2209 RP2040
-- BTT Knomi V2
+- BTT KNOMI V2
+- ERCF V2 (Not finished yet)
 
 **Reference URLS:**
 
@@ -37,7 +39,7 @@ Thanks to all this stuff:
 - https://www.printables.com/model/662739-voron-mgn9-endstop-carriage-cw2
 - https://www.printables.com/model/541874-umbilical-pg7-anchor-mod-large-gear-clockwork-2
 - https://www.printables.com/model/363657-voron-v24-rear-umbilical
-
-
+- https://github.com/Enraged-Rabbit-Community/ERCF_v2
+- https://github.com/moggieuk/Happy-Hare/
 **Contact**
 For questions contact me at discord: embitje
