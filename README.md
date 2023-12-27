@@ -2,6 +2,8 @@
 
 **OS:** Debian GNU/Linux 12 (bookworm)
 
+**Slicer**: OrcaSlicer
+
 **Plugins:**
 - Crowsnest (Installed by Kiauh)
 - Klippain-ShakeTune (https://github.com/Frix-x/klippain-shaketune)
@@ -14,6 +16,7 @@
 - Rainbow BARF Logo LED for StealthBurner
 - Umbilical PG7
 - SB2209 RP2040
+- Knomi V2
 
 **Reference URLS:**
 
