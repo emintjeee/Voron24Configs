@@ -24,7 +24,7 @@
 - Umbilical PG7
 - BTT SB2209 RP2040
 - BTT KNOMI V2
-- ERCF V2 (Not finished yet)
+- Tradrack (Modded)
 
 **Reference URLS:**
 
