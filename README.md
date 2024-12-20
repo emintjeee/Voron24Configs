@@ -5,10 +5,10 @@
 **Hardware**
 - Fysetc Spider V1.1
 - Fysetc Canbus Expander
-- Raspberry 4
-- KNOMI V2
+- Raspberry 4B
+- SB2209 RP2040 
 
-**Slicer**: OrcaSlicer
+**Slicer**: Orcaslicer
 
 **Plugins:**
 - Crowsnest (Installed by Kiauh)
@@ -23,8 +23,7 @@
 - Rainbow BARF Logo LED for StealthBurner
 - Umbilical PG7
 - BTT SB2209 RP2040
-- BTT KNOMI V2
-- Tradrack (Modded)
+- Tradrack (Savox Servo/12 Gates/Filamentalist/Filamentrix/Blobifier)
 
 **Reference URLS:**
 
@@ -35,13 +34,15 @@ Thanks to all this stuff:
 - https://github.com/Esoterical/voron_canbus
 - https://github.com/Esoterical/voron_canbus/tree/main/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20(RP2040)
 - https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
-- https://github.com/bigtreetech/KNOMI/tree/master/KNOMI2
-- https://github.com/Enraged-Rabbit-Community/ERCF_v2
 - https://github.com/moggieuk/Happy-Hare/
 - https://www.printables.com/model/662739-voron-mgn9-endstop-carriage-cw2
 - https://www.printables.com/model/541874-umbilical-pg7-anchor-mod-large-gear-clockwork-2
 - https://www.printables.com/model/363657-voron-v24-rear-umbilical
 - https://www.printables.com/model/642714-fysetc-stealthburner-led-carrier-for-neopixel-rain
+- https://github.com/Annex-Engineering/TradRack
+- https://github.com/sorted01/Filametrix
+- https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder
+- https://github.com/Dendrowen/Blobifier
 
   
 **Contact**
